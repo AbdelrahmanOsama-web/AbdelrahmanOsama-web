@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<h1 align="center">Hi 👋, I'm Abdulrahman Osama</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahman Osama </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=50&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&height=100&lines=Frontend+Developer;HTML+%7C+CSS+%7C+C%2B%2B;Web+Developer;Coding+Enthusiast)](https://git.io/typing-svg)
 
