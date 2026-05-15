@@ -64,6 +64,16 @@
 
 ---
 
+<h2 align="center">👀 Profile Views</h2>
+
+<div align="center">
+  
+<img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg?" />
+
+</div>
+
+---
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
