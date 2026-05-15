@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 💻 Frontend Web Developer  
 - 🌱 Currently learning advanced Web Development  
@@ -67,8 +67,12 @@
 <h2 align="center">👀 Profile Views</h2>
 
 <div align="center">
-  
-<img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg?" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
 
 </div>
 
@@ -108,7 +112,7 @@
 
 <div align="center">
 
-### 🚀 Keep Coding & Keep Learning
+## 🚀 Keep Coding & Keep Learning
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
