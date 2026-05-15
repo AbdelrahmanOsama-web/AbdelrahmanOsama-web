@@ -1,3 +1,6 @@
+الـ README اهو جاهز 👇
+انسخه وحطه في ملف `README.md` في GitHub بتاعك:
+
 ```md
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
@@ -94,26 +97,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
 ```
-
-غير بس:
-
-* `YOUR_USERNAME` → اليوزر بتاع GitHub
-* `YOUR_LINKEDIN` → لينكدإن بتاعك
-* `YOUR_INSTAGRAM` → إنستجرام لو عندك
-
-ولو عايز أعملهولك بشكل:
-
-* Professional
-* Dark Theme
-* Anime Style
-* Cyberpunk
-* Minimal
-
-أو أضيف:
-
-* مشاريعك
-* صورة متحركة مختلفة
-* LeetCode / Codeforces Stats
-* Snake Animation
-
-ابعتلي اليوزر بتاع GitHub وأنا أجهزهولك كامل جاهز للنسخ 🚀
