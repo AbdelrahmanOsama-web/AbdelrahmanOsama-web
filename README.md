@@ -2,102 +2,108 @@
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Osama</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=50&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&height=100&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+C%2B%2B;Web+Developer;Coding+Enthusiast)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=45&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&height=100&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+C%2B%2B;Web+Developer;Coding+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+</div>
 
 <h3 align="center">Passionate Frontend Developer & Coding Enthusiast 🚀</h3>
 
 <br>
 
-- 💻 I’m a Frontend Web Developer  
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 👨‍💻 About Me
+
+- 💻 Frontend Web Developer  
 - 🌱 Currently learning advanced Web Development  
 - 🔥 Skilled in **HTML, CSS, JavaScript, and C++**  
-- 🎯 Interested in building modern, responsive, and interactive websites  
-- 🤝 Open to collaboration and learning new technologies  
-- 📚 Constantly improving my coding and problem-solving skills  
-- ⚡ Fun Fact: I enjoy creating clean and creative user interfaces  
+- 🎯 Passionate about creating responsive and interactive websites  
+- 🤝 Open to collaboration and teamwork  
+- 📚 Always improving coding and problem-solving skills  
+- ⚡ Love clean UI and modern web designs  
 
-<br>
+<br><br><br><br><br><br>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+---
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="55" height="55"/>
-  </a>
+<h2 align="center">🛠 Languages & Tools</h2>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="55" height="55"/>
-  </a>
+<p align="center">
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="55" height="55"/>
-  </a>
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" title="HTML"/>
 
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55"/>
-  </a>
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80" title="CSS"/>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="55" height="55"/>
-  </a>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" title="JavaScript"/>
 
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="55" height="55"/>
-  </a>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80" title="C++"/>
 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/>
-  </a>
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" title="Git"/>
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80" title="GitHub"/>
+
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" title="VS Code"/>
+
 </p>
 
-<br>
+---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em"/>
 
-<h3 align="left">🌐 Connect With Me:</h3>
+</div>
 
-<p align="left">
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
 
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
+<img src="https://img.icons8.com/fluency/96/github.png" width="60"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="60"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60"/>
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+<img src="https://img.icons8.com/fluency/96/facebook-new.png" width="60"/>
 </a>
 
 <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45"/>
-</a>
-
-<a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45"/>
-</a>
-
-<a href="https://www.facebook.com/YOUR_FACEBOOK" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45"/>
+<img src="https://img.icons8.com/fluency/96/twitter.png" width="60"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60"/>
 </a>
 
 </p>
 
-<br>
+---
+
+<div align="center">
+
+### 🚀 Keep Coding & Keep Learning
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
